@@ -9,7 +9,9 @@ A grande vantagem é que você terá acesso aos códigos-fonte, arquivos de recu
 ---------
 
 <div align="center"> 
-  <a href="https://user-images.githubusercontent.com/114448911/229937875-d8dc11fb-71bb-4e97-9266-1924bbb320a3.png" target="_blank"></a>
+ <a href="https://www.tiktok.com/@matheusarii" target="_blank">
+  <img src="https://user-images.githubusercontent.com/114448911/229937875-d8dc11fb-71bb-4e97-9266-1924bbb320a3.png" alt="Ir para TikTok">
+</a>
 </div>
 
 <div align="center">
