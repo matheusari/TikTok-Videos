@@ -10,6 +10,8 @@ A grande vantagem é que você terá acesso aos códigos-fonte, arquivos de recu
   <a href="https://instagram.com/matheusarii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+---------
+
 <div align="center">
    <img src="https://user-images.githubusercontent.com/114448911/229936047-c534e16f-cf8f-4cda-84f5-33f439be539c.png">
 </div>
