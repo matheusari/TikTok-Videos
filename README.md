@@ -1,4 +1,6 @@
-<div align="center"> # Venha conferir meus projetos postados no Tiktok! 📸 </div>
+<div align="center">
+  <h1>Venha conferir meus projetos postados no Tiktok! 📸 </h1>
+</div>
 
 Este repositório contém todos os projetos que publiquei na minha conta do TikTok (@matheusarii). Nele, você encontrará uma variedade de propostas, cada uma com sua própria abordagem e estilo, todos desenvolvidos com muito cuidado e atenção aos detalhes.
 
