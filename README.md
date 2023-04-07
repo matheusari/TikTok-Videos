@@ -15,5 +15,5 @@ A grande vantagem é que você terá acesso aos códigos-fonte, arquivos de recu
 </div>
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/114448911/229936047-c534e16f-cf8f-4cda-84f5-33f439be539c.png">
+   <img src="https://user-images.githubusercontent.com/114448911/229936047-c534e16f-cf8f-4cda-84f5-33f439be539c.png" width="300px" height="auto">
 </div>
