@@ -1,0 +1,150 @@
+/* Fonte colocada na pasta do arquivo. */
+@font-face {
+  font-family: "Poppins";
+  src: url("Font/Poppins-Light.ttf") format("truetype");
+}
+
+/* Reiniciando as configurações da página. */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Alterando o fundo da página. */
+body {
+  background-image: url(R8.png);
+}
+
+/* Alterando a cor do fundo da página. */
+.container {
+  /* Posicionamento do botão - Como é um tutorial, posicionei no meio,
+  para facilitar na visualização, mas vocês podem alterar para a posição
+   de sua preferência. */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+  /* Colocando a fonte no botão. */
+  font-family: "Poppins", sans-serif;
+}
+
+label {
+  background: white;
+
+  /* Deixando redondo. */
+  display: block;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+
+  /* Centralizando o texto. */
+  line-height: 50px;
+  text-align: center;
+
+  /* Ajustando o tamanho da fonte. */
+  font-size: 22px; /* Aumentando */
+  font-weight: 500; /* Engrossando */
+
+  /* Cor da fonte do '+'. */
+  color: black;
+
+  /* Cursor do mouse */
+  cursor: pointer;
+
+  /* Sombra externa */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+label::before {
+  /* Posicionando sob o '+' */
+  position: absolute;
+  height: 51px;
+  width: 51px;
+  border-radius: 26px;
+
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+
+  /* Texto com o mouse sob o botão. */
+  content: "-";
+
+  /* Personalização do botão quando clicado. */
+  background-color: rgb(41, 41, 41);
+  color: white;
+
+  transition: 0.2s ease-in-out;
+}
+
+/* Posicionando sob o '+' */
+#check {
+  display: none;
+}
+#check:checked ~ label::before {
+  opacity: 1;
+}
+
+.icons {
+  /* Posicionamento. Depende do lugar que ficará o seu. */
+  position: absolute;
+  left: 50%;
+  top: -120px;
+  transform: translateX(-50%);
+
+  /* Alinhamento. */
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-evenly;
+
+  /* Personalização. */
+  background: rgba(217, 217, 217, 0.1);
+  backdrop-filter: blur(5px);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+  /* Dimensionamento. */
+  width: 150px;
+  height: 50px;
+  border-radius: 35px;
+  padding: 4px;
+
+  /* Animação */
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+/* Animação */
+#check:checked ~ .icons {
+  opacity: 1;
+  pointer-events: auto;
+  top: -70px;
+}
+
+/* Ícones. */
+.icons a {
+  font-size: 22px;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+/* Transição dos ícones quando passa o mouse. */
+.icons a:hover {
+  transform: translateY(-2px);
+}
+
+/* Cores dos ícones quando passa o mouse. */
+.icons a:nth-child(1):hover {
+  color: #25d366;
+}
+.icons a:nth-child(2):hover {
+  color: #e1306c;
+}
+.icons a:nth-child(3):hover {
+  color: #1778f2;
+}
+.icons a:nth-child(4):hover {
+  color: #fc7a1e;
+}
