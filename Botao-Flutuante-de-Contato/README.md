@@ -7,6 +7,6 @@ O projeto consiste em um botão flutuante feito com HTML e CSS que, após o cliq
 Assista já! [URL] (@matheusarii)
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/114448911/230679412-ef7a3917-ee1e-49ee-81ef-aeabd746dc18.gif">
+   <img src="-">
 </div>
 
