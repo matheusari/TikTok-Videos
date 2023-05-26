@@ -9,6 +9,6 @@ A grande vantagem é que você terá acesso aos códigos-fonte, arquivos de recu
 ---------
 
 <div align="center"> 
-  <img src="https://github.com/matheusari/TikTok-Videos/assets/114448911/9e17e42d-5dfa-4e20-82e2-9d18063ccb83" height="auto" width="auto" href="https://www.tiktok.com/@matheusarii" target="_blank">
+  <img src="https://github.com/matheusari/TikTok-Videos/assets/114448911/9e17e42d-5dfa-4e20-82e2-9d18063ccb83" height="auto" width="auto">
 </div>
 </div>
