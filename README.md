@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Venha conferir meus projetos postados no Tiktok! 📸 </h1>
+  <h1>Venha conferir meus projetos postados no Tiktok! 👇 </h1>
 </div>
 
 <div align="center"> 
