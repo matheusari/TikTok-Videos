@@ -10,6 +10,6 @@ A grande vantagem é que você terá acesso aos códigos-fonte, arquivos de recu
 
 <div align="center"> 
  <a href="https://www.tiktok.com/@matheusarii" target="_blank">
-  <img src="https://github.com/matheusari/TikTok-Videos/assets/114448911/f1feca24-2162-4d70-9d83-0c2114b1b723" target="_blank" height="100px" width="auto">
+  <img src="https://github.com/matheusari/TikTok-Videos/assets/114448911/f1feca24-2162-4d70-9d83-0c2114b1b723" target="_blank" height="auto" width="auto">
 </a>
 </div>
